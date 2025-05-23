@@ -38,14 +38,13 @@ src/
 │   ├── ExecuteOrderModal/
 │   │   ├── ExecuteOrderModal.tsx
 │   │   └── ExecuteOrderModal.test.tsx
-│   └── OrderList/
+│   └── CreateOrderModal/
 ├── pages/
 │   └── index.tsx
 ├── types/
 │   └── order.ts
 ├── theme.ts
-└── utils/
-    └── orderUtils.ts
+
 ```
 
 ---
